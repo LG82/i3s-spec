@@ -122,6 +122,11 @@ There are several applications that can create and consume scene layers. The tab
   <tr>
   <td>Skyline</td>
   <td><a href="http://www.skylineglobe.com/SkylineGlobe/corporate/Products/photomesh.aspx">PhotoMesh</a></td>
+  <td>IntegratedMesh</td> 
+ </tr>
+ <tr>
+  <td>nFrames</td>
+  <td><a href="http://www.nframes.com/">SURE</a></td>
   <td>IntegratedMesh</td>  
  </tr>
 </table>
